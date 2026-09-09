@@ -2,7 +2,7 @@
 import Reacticon from './assets/React-icon.png'
 import './style.css'
 
-  //const content = []
+  //CONTEUDO QUE SERA USADO NA PAGINA
 
   export default function App() {
     const content = [
